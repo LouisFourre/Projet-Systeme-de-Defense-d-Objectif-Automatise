@@ -1,6 +1,6 @@
 # Projet-Systeme-de-Defense-d-Objectif-Automatise
 
-![Illustration](https://fabmanager-cesi.duckdns.org/uploads/project_image/85/project_image.jpg)
+![Illustration](IMG/apercu.jpg)
 
 Conception d'une tourelle pouvant être contrôlée à distance par une manette ou complètement automatique via de la reconnaissance en direct de ballons de différentes couleurs grâce à une IA.
 
@@ -26,7 +26,7 @@ Le mosfet, son driver ainsi que condensateur doivent êtres sur une plaque sépa
 
 
 
-![Image 1](https://fabmanager-cesi.duckdns.org/uploads/project_step_image/88/project_step_image.jpg)
+![Image 1](SCHEMATIC/Schematic.svg)
 
 ### Étape 3 : Assemblage
 
@@ -34,13 +34,13 @@ Le mosfet, son driver ainsi que condensateur doivent êtres sur une plaque sépa
 
 1. Insérez des inserts 3D correspondants dans tous les trous nécessaires.
 2. Assemblez le roulement de la tourelle en mettant des billes de 6mm entre les deux parties (forcez la partie haute sur la partie basse pour clipser les deux parties).
-3. Vissez le moteur avec le support moteur horizontal. [photo 1]
+3. Vissez le moteur avec le support moteur horizontal. [photo 1](IMG/img%201.jpg)
 4. Vissez le roulement de la tourelle sur la base N°1.
 5. Vissez le&nbsp;support moteur horizontal sur le roulement de la tourelle en mettant la base du piedestal entre les deux.
 6. Posez l'assemblage sur le piedestal.
 7. Vissez le second moteur sur la base N°1 grace au support moteur d'élévation.
 8. Collez les bases N°2 et N°3 sur le haut base N°1.
-9. Assemblez le tendeur, puis insérez le dans le trou dans la base N°2. [photo 2]
+9. Assemblez le tendeur, puis insérez le dans le trou dans la base N°2. [photo 2](IMG/img%202.jpg)
 
 **Assemblage de la partie de tir**
 
@@ -88,28 +88,15 @@ Le programme principal contient tout le nécessaire pour utiliser la tourelle, l
 
 - Bouton croix : changer de caméra (nécessaire dans les cas ou votre ordinateur possède une caméra, le programme peut ne pas sélectionner la bonne caméra au démarrage)
 
-
-
-## Auteur
-
-Louis F
-
-## Thématiques
-
-Prototypage
-
 ## Fichiers CAD
 
-![Assemblage_tourelle.stl](https://fabmanager-cesi.duckdns.org/uploads/project_cao/84/Assemblage_tourelle.stl)
+![Assemblage_tourelle.stl](https://github.com/LouisFourre/Projet-Systeme-de-Defense-d-Objectif-Automatise/blob/main/CAO/Assemblage%20tourelle.stl)
 
 ## Machines utilisées
 
-Bambu Lab H2S
+Bambu Lab H2S, Anycubic Kobra S1
 
 ## Matériaux utilisés
 
-Filament PLA, Filament PETG
+PLA, PETG
 
-## Les collaborateurs
-
-Matheo Vignaud
